@@ -5,10 +5,9 @@ clearance from a credentialed authority who is licensed, bonded and
 insured.  You assume all risk in applying the referenced spreadsheet._
 
 Here is a simple spreadsheet to plan your cardio-respiratory fitness
-ramp-up from your current pathetic condition to that of a
-fully-trained athlete.  And it only takes six months!  All you need is
-some discipline, some gear and some math.  And this spreadsheet does the
-math for you.
+ramp-up from your current pathetic condition being fully-fit.  And it
+only takes six months!  All you need is some discipline, some gear and
+some math.  And this spreadsheet does the math for you.
 
 ## 1. Take your pulse at rest
 
